@@ -2,8 +2,8 @@
 
 # Configuration
 IMAGE_DIR="static/images"
-MAX_WIDTH=1920
-QUALITY=80
+MAX_WIDTH=1080
+QUALITY=70
 EXTENSIONS=("jpg" "jpeg" "png" "webp" "avif" "JPG" "JPEG" "PNG" "WEBP" "AVIF")
 
 echo "----------------------------------------------------------------"
