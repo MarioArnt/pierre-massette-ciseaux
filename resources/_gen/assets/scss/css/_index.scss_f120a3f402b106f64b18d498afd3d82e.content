@@ -35,6 +35,27 @@
   /* define list element for unnumbered lists, leave empty for default list element */
   --ul-li-icon: fa-asterisk; }
 
+#site-head {
+  background-size: contain !important; }
+  #site-head a.btn {
+    color: var(--highlight) !important;
+    border: 2px solid var(--highlight) !important;
+    background-color: transparent !important; }
+  #site-head a.btn:hover {
+    color: var(--highlight-contrast) !important;
+    border: 2px solid var(--highlight) !important;
+    background-color: var(--highlight) !important; }
+  #site-head .vertical {
+    vertical-align: bottom !important; }
+  #site-head #site-head-content {
+    margin-bottom: 20px !important; }
+
+a#header-arrow {
+  display: none !important; }
+
+.post-holder.dark a:hover {
+  color: var(--highlight-contrast) !important; }
+
 body {
   --color-text: var(--section-light-text-color);
   --color-background: var(--section-light-bg-color); }

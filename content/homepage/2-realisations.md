@@ -84,7 +84,7 @@ Fruit d’un travail en résidence à Arcade sur le thème de la construction en
 
 📲 Instagram : marine.le.razavet
 
-[https://arcade-designalacampagne.fr/page-expositions/residence-sortie-marine-le-razavet-2025](Plus d'infos)
+[Plus d'infos ici](https://arcade-designalacampagne.fr/page-expositions/residence-sortie-marine-le-razavet-2025)
 
 
 #### St-Sulpice
