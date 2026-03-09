@@ -35,6 +35,9 @@
   /* define list element for unnumbered lists, leave empty for default list element */
   --ul-li-icon: fa-asterisk; }
 
+body {
+  overflow-x: hidden !important; }
+
 #site-head {
   background-size: contain !important; }
   #site-head a.btn {
