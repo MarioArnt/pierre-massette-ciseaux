@@ -47,6 +47,9 @@
     --ul-li-icon: fa-asterisk;
 }
 
+body {
+    overflow-x: hidden !important;
+}
 
 #site-head {
     background-size: contain !important;
